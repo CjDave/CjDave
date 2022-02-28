@@ -1,6 +1,4 @@
 
-![banner (2)](https://user-images.githubusercontent.com/54193310/155937778-53170dee-6c43-4e9c-9e03-71df14a3752e.png)
-
 ## About me
 - 👋 Hi, I’m @CjDave
 - 👀 I’m a student at the University of Regina
