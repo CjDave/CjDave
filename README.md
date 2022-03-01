@@ -1,6 +1,6 @@
 
 ## About me
-- 👋 Hi, I’m @CjDave
+- 👋 Hi, I’m <a href="https://github.com/CjDave">@CjDave</a>
 - 👀 I’m a student at the University of Regina
 - ❤️I enjoy programming with C# and I'm interested in mobile app development and augmented reality. 
 - 👨‍💻 I use Xamarin.Forms to develop cross-platform apps 
